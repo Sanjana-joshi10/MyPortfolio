@@ -131,12 +131,13 @@ const Portfolio = () => {
      {
       id: 2,
       title: "Portfolio",
-      description:"My personal portfolio which showcasing my slills and work made with taileind,java sript and react.",
+      description:"My personal portfolio which showcasing my slills and work made with taileind,java sript and react.
+        https://sanjana-joshi10.github.io/MyPortfolio/",
      tech: ['React.js', 'Node.js', 'Express', 'MongoDB', ],
       stats: { },
       date: 'Apr 2025',
       github: 'https://github.com/Sanjana-joshi10/MyPortfolio',
-       demo: 'https://sanjana-joshi10.github.io/MyPortfolio/'
+      demo: 'https://sanjana-joshi10.github.io/MyPortfolio/'
     },
   ];
 
