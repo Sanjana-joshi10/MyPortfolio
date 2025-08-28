@@ -136,6 +136,7 @@ const Portfolio = () => {
       stats: { },
       date: 'Apr 2025',
       github: 'https://github.com/Sanjana-joshi10/MyPortfolio',
+       demo: 'https://sanjana-joshi10.github.io/MyPortfolio/'
     },
   ];
 
