@@ -138,6 +138,26 @@ const Portfolio = () => {
       github: 'https://github.com/Sanjana-joshi10/MyPortfolio',
       demo: 'https://sanjana-joshi10.github.io/MyPortfolio/'
     },
+    {
+      id: 3,
+      title: "E-Commerce-Store-Analysis",
+      description:"E-Commerce-Store-Analysis made with the help of powerBi suitable for Beginner.",
+     tech: ['powerBI' ],
+      stats: { },
+      date: 'july 2025',
+      github: 'https://github.com/Sanjana-joshi10/E-Commerce-Store-Analysis.git',
+      demo: ' https://sanjana-joshi10.github.io/E-Commerce-Store-Analysis/'
+    },
+    {
+      id: 4,
+      title: "Task Management System",
+      description:"Console-based Task Manager built in Java with error handling and due date support.",
+     tech: ['java'],
+      stats: { },
+      date: 'july 2025',
+      github: 'https://github.com/Sanjana-joshi10/TaskManagementSystem.git',
+       
+    },
   ];
 
   return (
