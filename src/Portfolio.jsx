@@ -77,7 +77,7 @@ const Portfolio = () => {
   const handleResumeDownload = () => {
 
     const fileId = '1sdOv5sv2B4TZpJ0DsuPqNg29dw6Ygzhb';
-    const downloadUrl = `https://drive.usercontent.google.com/u/0/uc?id=12DQWGtWl76Px0F6aOTxj8DIWJgNxxmzK&export=download=${fileId}`;
+    const downloadUrl = `https://drive.google.com/file/d/125wqcN4sLQX6nVwoForwhCnI7z_DjCiz/view?usp=drivesdk=${fileId}`;
     
 
     window.open(downloadUrl, '_blank');
